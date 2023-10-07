@@ -1,0 +1,21 @@
+step 1
+step one-
+	create maven project
+step two-
+	update pom.xml file--then maven update
+	1.properties
+	2.dependencies
+	3.plug-ins
+step 3 
+	crate and update appropriate pakage and classes in the src/main/java
+	
+step 4 
+	bulid basetest with is a relationship
+	open browser and application
+	close browser and application
+	take screen short
+	assertion
+	
+	
+step 5
+	bild propertis in the utilities pakage and crate 
